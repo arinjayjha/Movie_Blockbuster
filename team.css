@@ -70,6 +70,8 @@
   font-size: 1.25rem;
   text-align: center;
   margin-bottom: var(--dl-space-space-threeunits);
+  width: 1400px;
+  margin-left: 100px;
 }
 .team-link1 {
   display: contents;
@@ -110,6 +112,8 @@
   font-size: 1.25rem;
   text-align: center;
   margin-bottom: var(--dl-space-space-threeunits);
+  width: 1400px;
+  margin-left: 100px;
 }
 .team-link2 {
   display: contents;

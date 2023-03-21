@@ -45,17 +45,6 @@
   text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 @media(max-width: 479px) {
   .gallery-card3-text {
     align-self: center;
@@ -92,13 +81,13 @@
   justify-content: center;
 }
 .home-image {
-  height: 3rem;
+  height: 4rem;
   box-shadow: 5px 5px 5px 0px #30d8cf;
 }
 .home-separator {
   width: 100%;
   height: 1px;
-  margin-top: var(--dl-space-space-oneandhalfunits);
+  margin-top: 50px;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
   background-color: var(--dl-color-gray-900);
 }
@@ -235,6 +224,12 @@
 .home-link3 {
   display: contents;
 }
+#copy{
+text-align:center;
+margin-bottom: 15px;
+font-size: 15px;
+color: rgb(80, 78, 78);
+}
 .home-icon4 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
@@ -302,4 +297,10 @@
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
+}
+
+.home-navlink02
+{
+  margin-right: 40px;
+  text-decoration: none;
 }
